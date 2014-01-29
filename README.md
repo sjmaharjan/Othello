@@ -1,6 +1,8 @@
 Othello is based on following protocol
 ==========================================================================================================================
 
+Ref: IAGO paper
+
 Othello
 File: Othello Specifications
 Author: K.R. Sloan
